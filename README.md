@@ -14,7 +14,7 @@ Hello! I'm Pritom Das. I love coding, learning new tools, and creating things th
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&rounded=true)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&rounded=true)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&rounded=true)
-![MATLAB](https://img.shields.io/badge/MATLAB-004F9F?style=for-the-badge&logo=mathworks&logoColor=white&rounded=true)
+
 
 ---
 
