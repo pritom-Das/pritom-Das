@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pritom 👋
 
-<!--
-**pritom-Das/pritom-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- Learning full-stack development  
+- Interested in backend (NestJS, Node.js)  
+- Currently studying microprocessors and theory of computation  
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- JavaScript, TypeScript  
+- React, Node.js, NestJS  
+- MySQL, PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Pritom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritomdas&show_icons=true)
+
+### 🔗 Connect with me
+[LinkedIn](https://linkedin.com/in/...)  
