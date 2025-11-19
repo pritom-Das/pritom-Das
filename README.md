@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./bannerimgage.png" alt="Custom GitHub Header Banner" />
+</p>
 
 #  Pritom Here 👋
 
