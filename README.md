@@ -1,4 +1,8 @@
-# Hi, I'm Pritom 👋
+<p align="center">
+  <img src="https://i.ibb.co.com/Kz7yMKHr/github-header-banner-3.png" alt="Custom GitHub Header Banner" />
+</p>
+
+#  Pritom Here 👋
 
 
 Hello! I'm Pritom Das. I love coding, learning new tools, and creating things that make life easier. I'm currently focused on full-stack development and constantly improving step by step. When I'm not coding, you'll find me reading articles or exploring anything interesting that sparks my curiosity.
